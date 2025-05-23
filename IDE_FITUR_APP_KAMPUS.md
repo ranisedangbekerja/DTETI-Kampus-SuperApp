@@ -13,11 +13,11 @@ Tambahkan ide Anda sebagai satu blok entri baru.
 
 Format & Contoh Pengajuan Ide Fitur:
 
-* **Nama Fitur:** Project Makan Bergizi Gratis [Nama Fitur yang diusulkan]
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
-* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
-* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
-* **Diajukan oleh:** 123456
+* **Nama Fitur:** Project Makan Bergizi Gratis jadwal Makan
+* **Deskripsi Singkat:** Sebagai dukungan Kebijakan Pemerintah Memperluas  Sebaran makan bergizi kepada mahasiswa S1. Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara TEPAT WAKTU dan gratis setiap hari kerja di kampus. [Deskripsi Singkat]
+* **Target Pengguna Utama:** Mahasiswa S1
+* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan menghindari mahasiswa kekurangan GIJI
+* **Diajukan oleh:** 498140
 
 ## Kategori Ide Fitur
 
@@ -40,10 +40,14 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Project Jadwal Makan Hidup Prabowo!! Makan Bergizi Gratis 
+* **Deskripsi Singkat:** Sebagai dukungan Kebijakan Pemerintah Memperluas  Sebaran makan bergizi kepada mahasiswa S1. Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara TEPAT WAKTU dan gratis setiap hari kerja di kampus. [Deskripsi Singkat]
+* **Target Pengguna Utama:** Mahasiswa S1
+* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan menghindari mahasiswa kekurangan GIJI
+* **Diajukan oleh:** 498140
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
